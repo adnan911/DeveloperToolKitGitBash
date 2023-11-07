@@ -1,4 +1,6 @@
 # DeveloperToolKitGitBash
+My Discord username is `darkgem7`.
+
 Let’s begin, my path “Leo Developer Toolkit through Git Bash”
 
 *To paste command press Shift+Win+Insert (Windows)*
